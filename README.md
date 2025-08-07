@@ -1,12 +1,6 @@
-* Jenkins + Docker setup on EC2
-* `my-first-pipeline` project
-* `multi-stage-multi-agent` project
 
----
 
-### 📄 Cleaned `README.md`
 
-````markdown
 # Jenkins CI/CD Hands-on – My Projects
 
 This repository showcases Jenkins pipeline projects using Docker as build agents. All hands-on work is done on an EC2 instance with Jenkins and Docker installed.
@@ -44,7 +38,7 @@ pipeline {
     }
   }
 }
-````
+
 
 ### ✅ Outcome
 
